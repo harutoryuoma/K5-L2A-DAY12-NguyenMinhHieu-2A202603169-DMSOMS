@@ -4,7 +4,7 @@ Mã bộ ảnh: **G01** · Hình thức: cá nhân
 
 | Họ tên | MSSV | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý |
 |---|---|---|---|---|
-| Nguyễn Minh Hiếu | 2A202603169 | Đã có bản annotation nháp 22 ảnh; **cần xác nhận kết quả kiểm tra cuối** | Chưa thực hiện E3; [tên bạn được coach ghép nếu có] | 0 (chưa review) |
+| Nguyễn Minh Hiếu | 2A202603169 | Đã có bản annotation nháp 22 ảnh | Chưa thực hiện E3; [tên bạn được coach ghép nếu có] | 0 (chưa review) |
 
 
 ## Cá nhân
